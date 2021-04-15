@@ -1,0 +1,165 @@
+* {
+margin: 0px;
+
+}
+
+
+.green {
+
+width: 500px;
+height: 300px;
+background-color: green;
+margin: 10px auto;
+overflow: hidden;
+
+}
+
+.red {
+
+width: 200px;
+height: 200px;
+background-color: red;
+margin: 38px auto;
+border-radius: 50%;
+}
+ .white {
+width: 500px;
+height: 300px;
+background-color:white;
+margin: 30px auto;
+overflow: hidden;
+border: 3px solid black;
+
+ }
+
+
+
+ .lal {
+
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 38px auto;
+    border-radius: 50%;
+    }
+
+
+  
+
+.franc{
+    width: 166px;
+    height: 300px;
+    background-color:white;
+    margin: 30px auto;
+    overflow: hidden;
+    border-left: 166px solid blue;
+    border-right: 166px solid red;
+     }
+
+
+.italy{
+        width: 166px;
+        height: 300px;
+        background-color:white;
+        margin: 30px auto;
+        overflow: hidden;
+        border-left: 166px solid green;
+        border-right: 166px solid red;
+         }
+    
+
+.canada{
+
+    width: 166px;
+    height: 300px;
+    background-color:white;
+    margin: 30px auto;
+    overflow: hidden;
+    border-left: 166px solid red;
+    border-right: 166px solid red;
+
+}
+.canada img {
+
+width: 150px;
+text-align: justify;
+margin-top: 70px;
+
+}
+
+
+.spain {
+
+  width: 500px;
+  height: 150px;
+  background-color: orange;
+  margin: 10px auto;
+  overflow: hidden;
+  border-top: 60px solid red;
+  border-bottom: 60px solid red;
+  }
+
+.spain img {
+
+width: 100px;
+height: 100px;
+margin-top: 10px;
+margin-left: 30px;
+}
+
+.russia{
+
+width: 500px;
+height: 100px;
+background-color: blue;
+border-top: 100px solid white;
+border-bottom: 100px solid red;
+margin: 30px auto;
+outline: 1px solid black;
+
+}
+
+.germany{
+
+  width: 500px;
+  height: 100px;
+  background-color: red;
+  border-top: 100px solid black;
+  border-bottom: 100px solid yellow;
+  margin: 30px auto;
+  outline: 1px solid black;
+  
+  }
+
+  .egypt{
+
+    width: 500px;
+    height: 100px;
+    background-color:white;
+    border-top: 100px solid red;
+    border-bottom: 100px solid black;
+    margin: 30px auto;
+    overflow: hidden;
+  }
+.egypt img {
+width: 70px;
+height: 70px;
+margin: 20px ;
+margin-left: 200px;
+}
+
+
+
+
+
+
+  .ku {
+
+width: 400px;
+height: 100px;
+background-color: white;
+border-top:100px solid green ;
+border-left: 100px solid black;
+border-bottom: 100px solid red;
+margin: 30px auto;
+}
